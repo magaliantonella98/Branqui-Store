@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "nombre": "Fernet Branca",
+        "tipo": "3L",
+        "imagen": "../imagenes/branca-3litros.jpg",
+        "precio": "$6.200"
+    },
+    {
+        "id":2,
+        "nombre": "Fernet Branca",
+        "tipo": "1000ml",
+        "imagen": "../imagenes/branca-1000ml.jpg",
+        "precio": "$1000"
+    },
+    {
+        "id":3,
+        "nombre": "Fernet Branca",
+        "tipo": "750ml",
+        "imagen": "../imagenes/branca-750ml.jpg",
+        "precio": "$730"
+    },
+    {
+        "id":4,
+        "nombre": "Fernet Branca",
+        "tipo": "450ml",
+        "imagen": "../imagenes/branca-450ml.jpg",
+        "precio": "$500"
+    },
+    {
+        "id":5,
+        "nombre": "Fernet Branca",
+        "tipo": "50ml",
+        "imagen": "../imagenes/branca-50ml.jpg",
+        "precio": "$200"
+    },
+    {
+        "id":6,
+        "nombre": "Fernet 1882",
+        "tipo": "750ml",
+        "imagen": "../imagenes/1882-750ml.jpg",
+        "precio": "$500"
+    },
+    {
+        "id":7,
+        "nombre": "Fernet 1882",
+        "tipo": "450ml",
+        "imagen": "../imagenes/1882-450ml.jpg",
+        "precio": "$350"
+    },
+    {
+        "id":8,
+        "nombre": "Coca-Cola",
+        "tipo": "2.25L",
+        "imagen":"../imagenes/cocacola-225.jpg",
+        "precio":"$200"
+    },
+    {
+        "id":9,
+        "nombre": "Coca-Cola",
+        "tipo": "1.5L",
+        "imagen":"../imagenes/cocacola-15.jpg",
+        "precio":"$150"
+    },
+    {
+        "id":10,
+        "nombre": "Fernet Branca 750ml + Coca-Cola 2.25L",
+        "tipo": "Combo",
+        "imagen": "../imagenes/combo-fernet1.jpg",
+        "precio":"$899"
+    },
+    {
+        "id":11,
+        "nombre": "Fernet Branca 750ml + 2 Coca-Cola 2.25L",
+        "tipo": "Combo",
+        "imagen": "../imagenes/combo-fernet2.jpg",
+        "precio":"$1.050"
+    }
+]
